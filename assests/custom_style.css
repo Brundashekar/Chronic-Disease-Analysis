@@ -1,0 +1,46 @@
+body {
+    background-color: #F0F8FF; /* ivory */
+}
+
+.header, .tab-content {
+    background-color: #F0F8FF;
+    color: black;
+}
+
+.Select-control {
+    font-size: 12px;
+    background-color: #8FBC8F;
+}
+
+.button {
+    background-color: #B0C4DE;
+    color: black;
+}
+
+a, .link {
+    color: #5D8AA8;
+}
+
+/* Additional styles for dropdowns */
+.VirtualizedSelectOption {
+    font-size: 12px;
+}
+
+.VirtualizedSelectFocusedOption {
+    font-size: 12px;
+}
+
+/* Adjusting Tabs for better color and look */
+.dcc_control label {
+    color: black;
+}
+
+.dcc_tab {
+    background-color: #FFFFF0;
+    color: black;
+}
+
+.dcc_tab--selected {
+    background-color: #FFFFF0;
+    color: black;
+}
